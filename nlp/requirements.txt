@@ -1,3 +1,4 @@
+# Fixed dependency versions
 protobuf==5.29.6
 transformers==5.10.0
 einops==0.6.1
@@ -12,6 +13,6 @@ spacy==3.5.3
 sentence-transformers==5.6.0
 beautifulsoup4==4.11.2
 unstructured==0.24.0
-tiktoken 
+tiktoken
 fastapi
 uvicorn[standard]
