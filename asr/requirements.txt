@@ -1,0 +1,7 @@
+# Fixed dependency versions
+transformers==5.10.0
+librosa==0.10.1
+fastapi
+accelerate
+uvicorn[standard]
+pandas==2.0.3
